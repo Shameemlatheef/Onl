@@ -1,7 +1,7 @@
 # Online Shopping Application API 
 
  - We have developed this REST API for an Online Shopping Application. This API performs all the fundamental CRUD operations of any Online Shopping  Application platform with user validation at every step.
-- T
+
 
 
 
