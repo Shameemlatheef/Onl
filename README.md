@@ -1,11 +1,9 @@
 # Online Shopping Application API 
 
  - We have developed this REST API for an Online Shopping Application. This API performs all the fundamental CRUD operations of any Online Shopping  Application platform with user validation at every step.
-- This project is developed by team of 5 Back-End Developers during project week in Masai School.
+- T
 
 
-## Entity Relationship Diagram
-![image](https://github.com/efat56/striped-pear-8171/blob/main/Images/ERDiagram.jpg)
 
 
 
@@ -54,38 +52,8 @@
 
 
 
-# Team-Members
-- [Efat Husneara](https://github.com/efat56)
-- [Rupak Tyagi](https://github.com/Rupaktyagi)
-- [Swapnil Vhantale](https://github.com/spvhantale)
-- [Shameem A](https://github.com/shameemlatheef)
-- [Aman Sharma](https://github.com/thesharmaa)
-
-# Backend
-
-## Swagger UI
-![image](https://github.com/efat56/striped-pear-8171/blob/main/Images/AllController.png)
-
-## Customer-Controller
-![image](https://github.com/efat56/striped-pear-8171/blob/main/Images/CustomerController.png)
-
-## Address-Controller
-![image](https://github.com/efat56/striped-pear-8171/blob/main/Images/AddressController.png)
-
-## Product-Controller
-![image](https://github.com/efat56/striped-pear-8171/blob/main/Images/ProductController.png)
-
-## Cart-Controller
-![image](https://github.com/efat56/striped-pear-8171/blob/main/Images/CartController.png)
-
-## OrderAndLogin-Controller
-![image](https://github.com/efat56/striped-pear-8171/blob/main/Images/LoginAndOrderController.png)
-
-## Error-Controller
-![image](https://github.com/efat56/striped-pear-8171/blob/main/Images/ErrorController.png)
 
 
-<p align="center"> <img src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" alt="" /> </p>
 
 
 
